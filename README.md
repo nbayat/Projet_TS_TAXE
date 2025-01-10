@@ -10,6 +10,6 @@
 
 1. **Lancer :**
    ```bash
-   npm start -- --quantity <nombre> --price <prix> --state <état>
+   npm start -- --quantity <nombre> --price <prix> --state <string>
    ```
    
