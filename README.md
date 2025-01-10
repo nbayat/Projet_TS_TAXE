@@ -1,4 +1,5 @@
-# Projet Node.js
+# Elephant Carpaccio
+# BAYAT Nima (groupe en monôme)
 
 ## Installation
 
